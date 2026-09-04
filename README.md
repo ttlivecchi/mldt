@@ -15,4 +15,4 @@ The complete solver and demonstration workflow are provided as a single Jupyter 
 If you use MLDT in your research, please cite our manuscript published in the Journal of Biomedical Optics (JBO):
 
 Livecchi, T. T., Jacques, S. L., & Pierce, M. C. (2026). MLDT: An open-source
-multi-layer diffusion theory Python implementation. Journal of Biomedical Optics.
+multilayer diffusion theory Python implementation. Journal of Biomedical Optics.
