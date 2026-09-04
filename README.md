@@ -9,6 +9,8 @@
 
 By formulating multi-layer boundary conditions into an efficient, banded matrix structure, MLDT achieves sub-millisecond forward solver execution speeds—making it ideal for real-time iterative inverse extraction of optical properties in tissue spectroscopy and biomedical imaging.
 
+The complete solver and demonstration workflow are provided as a single Jupyter Notebook (`.ipynb`). The file can easily be uploaded to Google Drive and run directly in Google Colab, enabling anyone to execute forward modeling and inverse routines without installing a local environment.
+
 ## Citation
 If you use MLDT in your research, please cite our manuscript published in the Journal of Biomedical Optics (JBO):
 
