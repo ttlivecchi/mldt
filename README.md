@@ -12,9 +12,5 @@ By formulating multi-layer boundary conditions into an efficient, banded matrix 
 ## Citation
 If you use MLDT in your research, please cite our manuscript published in the Journal of Biomedical Optics (JBO):
 
-@article{Livecchi2026MLDT,
-  title={Multi-layer diffusion theory for fast diffuse reflectance calculation},
-  author={Livecchi, Thomas T.},
-  journal={Journal of Biomedical Optics},
-  year={2026}
-}
+Livecchi, T. T., Jacques, S. L., & Pierce, M. C. (2026). MLDT: An open-source
+multi-layer diffusion theory Python implementation. Journal of Biomedical Optics.
